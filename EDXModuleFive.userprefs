@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="EDXModuleFive/EDXModuleFive.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EDXModuleFive/Program.cs">
+    <Files>
+      <File FileName="EDXModuleFive/Program.cs" Line="34" Column="64" />
+      <File FileName="EDXModuleFive/Student.cs" Line="17" Column="28" />
+      <File FileName="EDXModuleFive/Teacher.cs" Line="11" Column="75" />
+      <File FileName="EDXModuleFive/UProgram.cs" Line="16" Column="29" />
+      <File FileName="EDXModuleFive/Degree.cs" Line="15" Column="24" />
+      <File FileName="EDXModuleFive/Course.cs" Line="15" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

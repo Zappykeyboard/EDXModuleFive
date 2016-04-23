@@ -1,0 +1,5 @@
+/Users/a/Projects/EDXModuleFive/EDXModuleFive/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/a/Projects/EDXModuleFive/EDXModuleFive/bin/Debug/EDXModuleFive.exe.mdb
+/Users/a/Projects/EDXModuleFive/EDXModuleFive/bin/Debug/EDXModuleFive.exe
+/Users/a/Projects/EDXModuleFive/EDXModuleFive/obj/x86/Debug/EDXModuleFive.exe
+/Users/a/Projects/EDXModuleFive/EDXModuleFive/obj/x86/Debug/EDXModuleFive.exe.mdb
